@@ -7,5 +7,6 @@ public class Main {
             sum+=i;
         }
         System.out.print("Suma liczb parzystych od 0 do 100 wynosi: " + sum);
+        //ola
     }
 }
